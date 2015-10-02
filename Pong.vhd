@@ -1,21 +1,9 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
+-- Authored by ress
 -- Create Date:    22:18:30 07/14/2009 
--- Design Name: 
 -- Module Name:    Pong - Behavioral 
--- Project Name: 
--- Target Devices: 
--- Tool versions: 
--- Description: 
---
--- Dependencies: 
---
--- Revision: 
--- Revision 0.01 - File Created
--- Additional Comments: 
---
+
+-- **Tailored for use on the ALtera DE2 Development Board by j-west**
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
